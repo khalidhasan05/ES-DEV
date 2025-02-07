@@ -1,5 +1,6 @@
 fun main(){
-  val name = "Khalid Hasan"
+
+    val name = "Khalid Hasan"
     val age = 23
     val height=5.5
     printDetails(name, age, height)
