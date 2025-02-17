@@ -1,3 +1,4 @@
+import class_test_01.*
 import data.Item
 import data.Meeting
 import java.time.LocalTime
@@ -29,7 +30,13 @@ fun main(){
 //    //quiz
 //    println(isAnswerCorrect("she is cute","she is cute"))
 
-    table()
+//    table()
 
+                        // class test
+   // qn01()
+   // qn02()
+   // qn03()
+   // qn04()
+    qn05()
 
 }
