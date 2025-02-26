@@ -1,8 +1,3 @@
-import class_test_01.*
-import data.Item
-import data.Meeting
-import java.time.LocalTime
-
 fun main(){
 //    println(calculator(20.0 , 50.0,'+'))
 //
@@ -37,6 +32,9 @@ fun main(){
    // qn02()
    // qn03()
    // qn04()
-    qn05()
+   // qn05()
+    //draft()
+   // nullSafe()
+    collection()
 
 }
