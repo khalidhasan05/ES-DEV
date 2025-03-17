@@ -35,6 +35,6 @@ fun main(){
    // qn05()
     //draft()
    // nullSafe()
-    collection()
-
+   // collection()
+    queue()
 }
